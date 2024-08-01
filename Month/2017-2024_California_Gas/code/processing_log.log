@@ -1,0 +1,117 @@
+2024-07-19 15:43:55,991 - INFO - 
+Processing unit: IN_Wabash River Gen Station_1010_4_P96
+2024-07-19 15:43:55,991 - INFO - Original filtered data shape: (0, 11)
+2024-07-19 15:43:55,991 - WARNING - Skipping unit IN_Wabash River Gen Station_1010_4_P96 due to no data after filtering.
+2024-07-19 15:43:55,991 - INFO - 
+Processing unit: IN_IPL - Eagle Valley Generating Station_991_5_P68
+2024-07-19 15:43:55,991 - INFO - Original filtered data shape: (0, 11)
+2024-07-19 15:43:55,991 - WARNING - Skipping unit IN_IPL - Eagle Valley Generating Station_991_5_P68 due to no data after filtering.
+2024-07-19 15:43:55,992 - INFO - 
+Processing unit: IN_IPL - Eagle Valley Generating Station_991_3_P62
+2024-07-19 15:43:55,992 - INFO - Original filtered data shape: (0, 11)
+2024-07-19 15:43:55,992 - WARNING - Skipping unit IN_IPL - Eagle Valley Generating Station_991_3_P62 due to no data after filtering.
+2024-07-19 15:43:55,992 - INFO - 
+Processing unit: IN_Wabash River Gen Station_1010_2_P97
+2024-07-19 15:43:55,992 - INFO - Original filtered data shape: (0, 11)
+2024-07-19 15:43:55,992 - WARNING - Skipping unit IN_Wabash River Gen Station_1010_2_P97 due to no data after filtering.
+2024-07-19 15:43:55,992 - INFO - 
+Processing unit: IN_F B Culley Generating Station_1012_1_P50
+2024-07-19 15:43:55,992 - INFO - Original filtered data shape: (0, 11)
+2024-07-19 15:43:55,992 - WARNING - Skipping unit IN_F B Culley Generating Station_1012_1_P50 due to no data after filtering.
+2024-07-19 15:43:55,993 - INFO - 
+Processing unit: IN_Whitewater Valley_1040_1_P37
+2024-07-19 15:43:55,993 - INFO - Original filtered data shape: (0, 11)
+2024-07-19 15:43:55,993 - WARNING - Skipping unit IN_Whitewater Valley_1040_1_P37 due to no data after filtering.
+2024-07-19 15:43:55,993 - INFO - 
+Processing unit: IN_IPL - Eagle Valley Generating Station_991_4_P65
+2024-07-19 15:43:55,993 - INFO - Original filtered data shape: (0, 11)
+2024-07-19 15:43:55,993 - WARNING - Skipping unit IN_IPL - Eagle Valley Generating Station_991_4_P65 due to no data after filtering.
+2024-07-19 15:43:55,993 - INFO - 
+Processing unit: IN_R Gallagher_1008_2_P157
+2024-07-19 15:43:55,993 - INFO - Original filtered data shape: (0, 11)
+2024-07-19 15:43:55,993 - WARNING - Skipping unit IN_R Gallagher_1008_2_P157 due to no data after filtering.
+2024-07-19 15:43:55,993 - INFO - 
+Processing unit: IN_Clifty Creek_983_5_P247
+2024-07-19 15:43:55,994 - INFO - Original filtered data shape: (0, 11)
+2024-07-19 15:43:55,994 - WARNING - Skipping unit IN_Clifty Creek_983_5_P247 due to no data after filtering.
+2024-07-19 15:43:55,994 - INFO - 
+Processing unit: IN_Wabash River Gen Station_1010_5_P110
+2024-07-19 15:43:55,994 - INFO - Original filtered data shape: (0, 11)
+2024-07-19 15:43:55,994 - WARNING - Skipping unit IN_Wabash River Gen Station_1010_5_P110 due to no data after filtering.
+2024-07-19 15:43:55,994 - INFO - 
+Processing unit: IN_Dean H Mitchell Generating Station_996_6_P105
+2024-07-19 15:43:55,994 - INFO - Original filtered data shape: (0, 11)
+2024-07-19 15:43:55,994 - WARNING - Skipping unit IN_Dean H Mitchell Generating Station_996_6_P105 due to no data after filtering.
+2024-07-19 15:43:55,994 - INFO - 
+Processing unit: IN_IPL - Eagle Valley Generating Station_991_6_P110
+2024-07-19 15:43:55,994 - INFO - Original filtered data shape: (0, 11)
+2024-07-19 15:43:55,994 - WARNING - Skipping unit IN_IPL - Eagle Valley Generating Station_991_6_P110 due to no data after filtering.
+2024-07-19 15:43:55,995 - INFO - 
+Processing unit: IN_Tanners Creek_988_U1_P162
+2024-07-19 15:43:55,995 - INFO - Original filtered data shape: (0, 11)
+2024-07-19 15:43:55,995 - WARNING - Skipping unit IN_Tanners Creek_988_U1_P162 due to no data after filtering.
+2024-07-19 15:43:55,995 - INFO - 
+Processing unit: IN_Frank E Ratts_1043_2SG1_P132
+2024-07-19 15:43:55,995 - INFO - Original filtered data shape: (0, 11)
+2024-07-19 15:43:55,995 - WARNING - Skipping unit IN_Frank E Ratts_1043_2SG1_P132 due to no data after filtering.
+2024-07-19 15:43:55,995 - INFO - 
+Processing unit: IN_Frank E Ratts_1043_1SG1_P133
+2024-07-19 15:43:55,995 - INFO - Original filtered data shape: (0, 11)
+2024-07-19 15:43:55,995 - WARNING - Skipping unit IN_Frank E Ratts_1043_1SG1_P133 due to no data after filtering.
+2024-07-19 15:43:55,996 - INFO - 
+Processing unit: IN_Clifty Creek_983_3_P242
+2024-07-19 15:43:55,996 - INFO - Original filtered data shape: (0, 11)
+2024-07-19 15:43:55,996 - WARNING - Skipping unit IN_Clifty Creek_983_3_P242 due to no data after filtering.
+2024-07-19 15:43:55,996 - INFO - 
+Processing unit: IN_Clifty Creek_983_4_P233
+2024-07-19 15:43:55,996 - INFO - Original filtered data shape: (0, 11)
+2024-07-19 15:43:55,996 - WARNING - Skipping unit IN_Clifty Creek_983_4_P233 due to no data after filtering.
+2024-07-19 15:43:55,996 - INFO - 
+Processing unit: IN_Dean H Mitchell Generating Station_996_4_P122
+2024-07-19 15:43:55,996 - INFO - Original filtered data shape: (0, 11)
+2024-07-19 15:43:55,996 - WARNING - Skipping unit IN_Dean H Mitchell Generating Station_996_4_P122 due to no data after filtering.
+2024-07-19 15:43:55,997 - INFO - 
+Processing unit: IN_R Gallagher_1008_1_P161
+2024-07-19 15:43:55,997 - INFO - Original filtered data shape: (0, 11)
+2024-07-19 15:43:55,997 - WARNING - Skipping unit IN_R Gallagher_1008_1_P161 due to no data after filtering.
+2024-07-19 15:43:55,997 - INFO - 
+Processing unit: IN_R Gallagher_1008_4_P156
+2024-07-19 15:43:55,997 - INFO - Original filtered data shape: (0, 11)
+2024-07-19 15:43:55,997 - WARNING - Skipping unit IN_R Gallagher_1008_4_P156 due to no data after filtering.
+2024-07-19 15:43:55,997 - INFO - 
+Processing unit: IN_Tanners Creek_988_U3_P232
+2024-07-19 15:43:55,997 - INFO - Original filtered data shape: (0, 11)
+2024-07-19 15:43:55,997 - WARNING - Skipping unit IN_Tanners Creek_988_U3_P232 due to no data after filtering.
+2024-07-19 15:43:55,997 - INFO - 
+Processing unit: IN_Dean H Mitchell Generating Station_996_5_P118
+2024-07-19 15:43:55,997 - INFO - Original filtered data shape: (0, 11)
+2024-07-19 15:43:55,997 - WARNING - Skipping unit IN_Dean H Mitchell Generating Station_996_5_P118 due to no data after filtering.
+2024-07-19 15:43:55,998 - INFO - 
+Processing unit: IN_Dean H Mitchell Generating Station_996_11_P104
+2024-07-19 15:43:55,998 - INFO - Original filtered data shape: (0, 11)
+2024-07-19 15:43:55,998 - WARNING - Skipping unit IN_Dean H Mitchell Generating Station_996_11_P104 due to no data after filtering.
+2024-07-19 15:43:55,998 - INFO - 
+Processing unit: IN_Tanners Creek_988_U2_P166
+2024-07-19 15:43:55,998 - INFO - Original filtered data shape: (0, 11)
+2024-07-19 15:43:55,998 - WARNING - Skipping unit IN_Tanners Creek_988_U2_P166 due to no data after filtering.
+2024-07-19 15:43:55,998 - INFO - 
+Processing unit: IN_State Line Generating Station (IN)_981_3_P221
+2024-07-19 15:43:55,998 - INFO - Original filtered data shape: (0, 11)
+2024-07-19 15:43:55,998 - WARNING - Skipping unit IN_State Line Generating Station (IN)_981_3_P221 due to no data after filtering.
+2024-07-19 15:43:55,999 - INFO - 
+Processing unit: IN_State Line Generating Station (IN)_981_4_P355
+2024-07-19 15:43:55,999 - INFO - Original filtered data shape: (0, 11)
+2024-07-19 15:43:55,999 - WARNING - Skipping unit IN_State Line Generating Station (IN)_981_4_P355 due to no data after filtering.
+2024-07-19 15:43:55,999 - INFO - 
+Processing unit: IN_Clifty Creek_983_6_P237
+2024-07-19 15:43:55,999 - INFO - Original filtered data shape: (0, 11)
+2024-07-19 15:43:55,999 - WARNING - Skipping unit IN_Clifty Creek_983_6_P237 due to no data after filtering.
+2024-07-19 15:43:55,999 - INFO - 
+Processing unit: IN_R Gallagher_1008_3_P158
+2024-07-19 15:43:55,999 - INFO - Original filtered data shape: (0, 11)
+2024-07-19 15:43:55,999 - WARNING - Skipping unit IN_R Gallagher_1008_3_P158 due to no data after filtering.
+2024-07-19 15:43:56,000 - INFO - 
+Processing unit: IN_Clifty Creek_983_1_P241
+2024-07-19 15:43:56,000 - INFO - Original filtered data shape: (0, 11)
+2024-07-19 15:43:56,000 - WARNING - Skipping unit IN_Clifty Creek_983_1_P241 due to no data after filtering.
+2024-07-19 15:43:56,002 - INFO - Fitting and saving completed.
